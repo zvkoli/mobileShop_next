@@ -1,0 +1,16 @@
+.ant-menu-title-content:active {
+  color: #fbcb07 !important;
+}
+
+.ant-menu-item-selected:focus {
+  color: #fbcb07 !important;
+}
+
+.ant-menu-item-selected {
+  color: #fbcb07 !important;
+}
+
+.ant-menu-overflow-item::before,
+.ant-menu-overflow-item::after {
+  border: hidden !important;
+}

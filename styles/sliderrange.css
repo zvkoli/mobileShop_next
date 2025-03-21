@@ -1,0 +1,12 @@
+.ant-slider-rail {
+  background-color: #1a1a1a !important;
+}
+
+.ant-slider-track {
+  background-color: #fbcb07 !important;
+}
+
+.ant-slider .ant-slider-handle::after {
+  background-color: #fbcb07 !important;
+  box-shadow: none !important;
+}

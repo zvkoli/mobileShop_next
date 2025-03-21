@@ -1,0 +1,10 @@
+.swal2-icon-error {
+    color: #C3C4C5 !important;
+    background-color: #1A1A1A !important;
+    font-size: 0.80rem !important;
+}
+
+.swal2-title{
+    font-family: Sans !important;
+    font-weight: 100 !important; 
+}

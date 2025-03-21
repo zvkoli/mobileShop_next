@@ -1,0 +1,28 @@
+.ant-select-selector {
+  border: hidden !important;
+  background-color: #1a1a1a !important;
+  box-shadow: none !important;
+  color: #fbcb07 !important;
+}
+
+.ant-select-dropdown {
+  background-color: #242424 !important;
+}
+
+.ant-select-item {
+  color: #fff !important;
+}
+
+.ant-select-item-option-selected {
+  background-color: #1a1a1a !important;
+  font-weight: 400 !important;
+  color: #fbcb07 !important;
+}
+
+.ant-select-item-option-active {
+  background-color: #1a1a1a !important;
+}
+
+.ant-select-selection-item {
+  color: #fbcb07 !important;
+}
